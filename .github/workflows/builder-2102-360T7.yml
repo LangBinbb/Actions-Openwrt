@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: immortalwrt-mt798x-21.02 Builder
+name: immortalwrt-mt798x-21.02-360T7 Builder
 
 on:
   repository_dispatch:
