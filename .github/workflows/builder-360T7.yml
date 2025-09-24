@@ -141,7 +141,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         tag_name: ${{ steps.tag.outputs.release_tag }}
-        body_path: 66release.txt
+        body_path: 66360T7release.txt
         files: ${{ env.FIRMWARE }}/*
 
     - name: Delete workflow runs
