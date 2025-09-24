@@ -20,7 +20,7 @@ env:
   REPO_URL: https://github.com/LangBinbb/immortalwrt-mt798x
   REPO_BRANCH: dev
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: sl30002102pw2.config
+  CONFIG_FILE: sl30002102.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: 2102diy-part2.sh
   UPLOAD_BIN_DIR: false
